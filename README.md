@@ -1,4 +1,4 @@
-# RestroGirls
+# Restro
 
 A Simple Demo Resturant Management System Project in PHP
 
